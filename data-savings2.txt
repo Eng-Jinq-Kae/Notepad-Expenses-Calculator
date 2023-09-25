@@ -1,0 +1,35 @@
+3/9
+Newspaper - 2
+
+4/9
+Book- 167.10
+Lunch - 19.9
+
+6/9
+Bread - 4.70
+
+7/9
+Parking - 0.64
+Lunch - 6.50
+
+10/9
+Mart - 24.80
+
+12/9
+Petrol - 60
+
+13/9
+Painkiller - 3
+
+14/9
+Lunch - 20.50
+Newspaper - 2
+
+18/9
+Dinner - 27.30
+
+19/9
+Lunch - 15.40
+
+24/9
+Dinner - 50
